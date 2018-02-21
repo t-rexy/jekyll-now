@@ -2,7 +2,7 @@
 title: Blog Post 1:Getting Started
 layout: post
 author: rex.vidal
-permalink: /blog-post-1:getting-started/
+permalink: /blog-post-1-getting-started/
 source-id: 1PpGsekM9nNIAUM8KAayrx9su2unU60UPbzAaDTfuIU8
 published: true
 ---

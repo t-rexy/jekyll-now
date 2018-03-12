@@ -1,5 +1,5 @@
 ---
-title: Untitled document
+title: Week 6 Blog, Flashing Lights Part 2
 layout: post
 author: rex.vidal
 permalink: /untitled-document/
